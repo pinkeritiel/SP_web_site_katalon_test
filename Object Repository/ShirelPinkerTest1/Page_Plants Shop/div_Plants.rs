@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Plants</name>
+   <tag></tag>
+   <elementGuidId>dc03e0dd-9796-444b-a91b-2af9a111ee71</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.headerLeft > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Hello, guest'])[1]/preceding::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>13deb82c-fe56-47cc-bbd9-45cf476e6100</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Plants</value>
+      <webElementGuid>193da429-b3f1-4c04-80f1-915a6629b638</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;container&quot;]/app-header[1]/div[@class=&quot;headerContainer container&quot;]/div[@class=&quot;upperHeader&quot;]/div[@class=&quot;headerLeft&quot;]/div[1]</value>
+      <webElementGuid>6ac56de2-ce5d-43eb-91e8-127387adb771</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hello, guest'])[1]/preceding::div[1]</value>
+      <webElementGuid>deb083d9-cf8a-4d02-80a1-1e2a06f6779c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login As Guest'])[1]/preceding::div[4]</value>
+      <webElementGuid>8610752b-a0aa-488d-be4c-99f82eadb071</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Plants']/parent::*</value>
+      <webElementGuid>dadf5a5a-1951-48b9-90c8-b811dd78f2ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div</value>
+      <webElementGuid>cb5f4f32-fd75-4729-b1fa-27aa5aa1f20c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Plants' or . = 'Plants')]</value>
+      <webElementGuid>8e7376aa-685d-4edb-b41a-d1d0faec77dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
